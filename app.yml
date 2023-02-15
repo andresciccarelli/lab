@@ -1,0 +1,4 @@
+aws.access-key = hola
+aws.access-secret = pianola
+ses.source.email = hola@gmail.com
+ses.source.subject = hola!
